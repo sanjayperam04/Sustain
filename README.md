@@ -1,9 +1,11 @@
 # **Sustain: Revolutionizing Sustainable Decision-Making with Advanced ESG Analytics**
 
-> **Empowering Sustainability, One Insight at a Time.**  
-> **Innovative. Strategic. Responsible.**
+> **Redefining Sustainable Investing with Data-Driven Insights**  
+> **Invest Smarter, Impact Greater. Sustainability Reimagined.**
 
 ## **The Problem**
+
+Green finance plays a pivotal role in achieving global sustainability goals. However, financial institutions often struggle to evaluate and prioritize projects that deliver the highest environmental, social, and governance (ESG) impact. The lack of robust tools for assessing sustainability metrics, predicting risks, and optimizing resource allocation further complicates decision-making.  
 
 ### **Complexities in ESG Data Management and Suboptimal Decision-Making**  
 - **Fragmented Data**: Organizations struggle to integrate ESG data from multiple sources, resulting in incomplete insights.  
