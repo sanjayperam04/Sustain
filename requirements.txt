@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+pulp
+pytesseract
+pdf2image
+jsonlib-python3
+groq
